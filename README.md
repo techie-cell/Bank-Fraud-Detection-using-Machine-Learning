@@ -75,6 +75,7 @@ Bank-Fraud-Detection/
 ├── notebooks/
 ├── src/
 ├── requirements.txt
+├── start_api.bat
 # Workflow
 
 ## Data Collection
@@ -130,6 +131,5 @@ Models implemented:
 - Transaction risk visualization
 - SHAP explanation graphs
 - Fraud analytics charts
-Fraud analytics charts├── start_api.bat
-├── start_dashboard.bat
+
 └── README.md
