@@ -238,7 +238,3 @@ streamlit run dashboard/app_streamlit.py
 - Insurance Fraud Detection
 - Telecom Fraud Analytics
 - Crypto Transaction Monitoring
-
---
-
-Developed as part of AI/ML Internship Project at Glowlogics Solutions Pvt Ltd.
